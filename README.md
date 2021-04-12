@@ -10,4 +10,4 @@ How have home values changed in the United States since the COVID-19 pandemic hi
 
 ## Plot
 
-![](/result.png)
+![](/imgs/result.png)
